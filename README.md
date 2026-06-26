@@ -16,3 +16,11 @@ AI Entrepreneurship is more like manufacturing project than like Internet or Mob
 
 因为LLM的巨额前期投入，大模型公司从一开始有财务压力，所以免费服务从一开始就非常有限，Token从一开始就收费，而且收费很高，迫使应用创业公司要像制造业一样思考，因为服务成本会随着客户数量线性提高，没有互联网创业的边际递减效应。技术方案天然需要把优化Token成本作为基础。
 
+<2026-06-25>  
+Cost kills. So seeking cheaper token is AI users' intrinsic drive. They will consider off-shore. They will consider combining free, local deployment of smaller model and expensive, advanced model. They will switch between models.  
+
+成本会变成生死线。寻找更便宜的Token会是AI应用公司的内在需求。他们会考虑海外Token，会考虑私有化部署和云端大模型的合作，会在不同的模型之间不停切换。  
+
+Then what will AI Giants do? They will lose customer loyalty (after they lose the feature differentiation). The way to avoid price war is to invade into deeper down on the value chain, to bind AI users on their vehicle. They will start on rich, standard industries.  
+
+那么大模型公司会怎么做？在失去大模型之间的差异度之后，他们会进一步失去客户忠诚度。下一步避免价格战的办法，就是深入侵入价值链，把下游AI用户绑定到自己的战车上。他们会从最有钱的、标准化最高的行业开始。
